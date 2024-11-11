@@ -1,4 +1,4 @@
-About BitTorrent:
+About IPFS:
 =================
 
 BitTorrent is a tool for distributing files. It's extremely easy to
